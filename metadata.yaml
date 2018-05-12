@@ -1,5 +1,8 @@
 _repo: The-Shadow-of-the-Rope_12590
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hornung, E. W. (Ernest William)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/364
     wikipedia: http://en.wikipedia.org/wiki/Ernest_William_Hornung
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12590#The-Shadow-of-the-Rope
 gutenberg_bookshelf: Crime Fiction
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
