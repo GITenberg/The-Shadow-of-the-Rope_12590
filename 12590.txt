@@ -11,6 +11,7 @@ Title: The Shadow of the Rope
 Author: E. W. Hornung
 
 Release Date: June 12, 2004 [EBook #12590]
+[Last updated: December 2, 2015]
 
 Language: English
 
@@ -922,7 +923,7 @@ became plainer still as, with sad, unflinching eyes, she watched and
 listened while, for the last time, the jurymen answered to their names.
 
 Now they were done. The foreman shifted nervously in his place. In the
-overstain of the last dread pause, the crowded court felt hotter and
+overstrain of the last dread pause, the crowded court felt hotter and
 lighter than ever. It seemed to unite the glare of a gin palace with the
 temperature of a Turkish bath.
 
@@ -2089,7 +2090,7 @@ CHAPTER VII
 A MORNING CALL
 
 
-"The way to conceal one's identity," observed Mrs. Steel, "is to assume
+"The way to conceal one's identity," observed Mr. Steel, "is to assume
 another as distinctive as one's own."
 
 This oracular utterance was confidentially delivered from the leathern
@@ -2525,7 +2526,7 @@ production) each of these was more beautiful than the last.
 "That," observed Steel, "happens to be the very article from which I
 first got wind of the place, when I was looking about for one. And
 now," he added, "I suppose I have cut my own throat! Like the devil, I
-have taken you up to a high place-"
+have taken you up to a high place--"
 
 It was no word from Rachel that cut him short, but his own taste, with
 which she at least had very little fault to find. And Rachel was
@@ -3581,7 +3582,7 @@ him at the time. Oh, dear, no; she was no more guilty than you or I; but
 it would be a thousand times more artistic if she were; and I should
 make her so, by Jove!"
 
-Rachel finished heir dinner in great tranquillity after this; but there
+Rachel finished her dinner in great tranquillity after this; but there
 was a flush upon her face which had not been there before, and Langholm
 received an astonishing smile when the ladies rose. He had been making
 tardy atonement for his neglect of the aquiline lady, but Rachel had the
@@ -4260,7 +4261,7 @@ harm could that have done? It would have been the strongest possible
 bond between them. But Rachel went further as she thought more. Why not
 have told her frankly that he had known Alexander Minchin years before
 she did herself? It could have made no difference after Alexander
-Minchin's death; then why had be kept the fact so jealously to himself?
+Minchin's death; then why had he kept the fact so jealously to himself?
 And the dead man's painted eyes answered "Why?" with the bold and
 mocking stare his wife could not forget, a stare which at that moment
 assumed a new and sinister significance in her sight.
@@ -5568,7 +5569,7 @@ fell lamentably short of its usual efficacy. It was not one of his
 heroines who was worrying the novelist, but a real woman whom he liked
 and her husband whom he did not. The husband it was who had finished
 matters by entering the field of speculation during the morning's work.
-It may he confessed that Langholm had not by any means disliked him the
+It may be confessed that Langholm had not by any means disliked him the
 year before.
 
 What was the secret of this second marriage on the part of one who had
@@ -7131,7 +7132,7 @@ PROVISIONAL CASE AGAINST ---- ---- ----
     have returned between two and three, and would thus have been
     absent at very time at which crime was committed according to
     medical evidence adduced at trial. But exact duration of absence
-    from hotel can he proved.
+    from hotel can be proved.
 
 3.  Knew M. in Australia, but was in England unknown to M. till two
     mornings before murder, when M. wrote letter on receipt of which
